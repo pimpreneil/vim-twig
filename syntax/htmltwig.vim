@@ -25,4 +25,4 @@ else
   unlet b:current_syntax
 endif
 
-let b:current_syntax = "htmljinja"
+let b:current_syntax = "html"
